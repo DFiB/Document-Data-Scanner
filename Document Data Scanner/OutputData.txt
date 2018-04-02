@@ -1,0 +1,28 @@
+Report on 'The War of the Worlds' by H(erbert) G(eorge) Wells
+Done by CS210(c) Group 1 for In Class Lab Project #2
+File Name: warw10.txt
+Location Information: http://www.textfiles.com/etext/FICTION/warw10.txt
+Total Words of Actual Work: 60429
+Total Sentences of Actual Work: 3165
+Average words per sentence: 19.092890995260664
+The percentage of file not part of work is: 3.1958861976163018%
+
+
+Shortest sentence: 1 words
+"Well?"
+
+Longest sentence: 109 words
+" And all about him--in the rooms below, in the houses on each 
+side and across the road, and behind in the Park Ter- races 
+and in the hundred other streets of that part of Maryle- bone, 
+and the Westbourne Park district and St. Pancras, and westward 
+and northward in Kilburn and St. John's Wood and Hampstead, 
+and eastward in Shoreditch and Highbury and Haggerston and Hoxton, 
+and, indeed, through all the vastness of London from Ealing 
+to East Ham--people were rubbing their eyes, and opening windows 
+to stare out and ask aimless questions, dressing hastily as 
+the first breath of the coming storm of Fear blew through the 
+streets."
+
+
+The word "god" appears 24 times!
